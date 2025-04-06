@@ -14,7 +14,7 @@ subtitle: Publications
     margin-bottom: 20px;
     padding: 20px;
     border-bottom: 1px solid #ddd;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
   }
 
