@@ -113,7 +113,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/TwoStream.png" alt="TwoStream" class="publication-image">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/TwoStream.png" alt="TwoStream" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Two-stream network for sign language recognition and translation.</strong></h2>
@@ -129,7 +129,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/simple.png" alt="SLT" class="publication-image">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/simple.png" alt="SLT" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>A simple multi-modality transfer learning baseline for sign language translation.</strong></h2>
