@@ -2,6 +2,7 @@
 layout: page
 title: 
 subtitle: Publications
+full-width: true
 ---
 
 <style>
