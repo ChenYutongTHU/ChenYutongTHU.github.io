@@ -10,7 +10,7 @@ subtitle: Publications
 /*     font-family: 'Arial', sans-serif; /* Example font, you can change it to any font */ */
     font-weight: bold;
     color: #9E7BB5; /* Set your highlight color (you can choose any color) */
-    font-size: 10px; /* Set the font size */
+    font-size: 16px; /* Set the font size */
   }
 
   /* Custom styles for publications */
@@ -20,6 +20,8 @@ subtitle: Publications
     margin-bottom: 20px;
     padding: 20px;
     border-bottom: 1px solid #ddd;
+    width: 90%;
+    margin: 0 auto;
   }
 
   .publication .left-column {
