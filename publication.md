@@ -55,7 +55,7 @@ full-width: true
   /* Optional: You can add specific styles for links */
   .publication a {
     text-decoration: none;
-    color: #b3d7ff;
+    color: #e1b05d;
   }
 
   .publication a:hover {
