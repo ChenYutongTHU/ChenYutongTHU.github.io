@@ -8,6 +8,7 @@ tags: [test]
 comments: true
 mathjax: true
 author: Bill Smith
+permalink: https://sergeyprokudin.github.io/splatformer/
 ---
 
 {: .box-success}
