@@ -7,7 +7,7 @@ full-width: true
 
 <style>
   /* Custom style for highlighted font (for your name) */
-  .highlight-author {
+  .yutongasauthor {
     color: #9E7BB5; 
     font-weight: bold; 
   }
@@ -18,7 +18,7 @@ full-width: true
     margin-bottom: 15px;
     padding: 20px;
     border-bottom: 1px solid #ddd;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
   }
 
@@ -86,7 +86,7 @@ full-width: true
   <div class="right-column">
     <h2><strong>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Yifan Zhan<sup>*</sup>, Zhihang Zhong, Wei Wang, Xiao Sun, Yu Qiao,
-Yinqiang Zheng (<sup>*</sup>: equal contribution)</p> 
+Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p> 
     <p>ECCV 2024.</p>
     <p>
       <a href="https://ai4sports.opengvlab.com/Dyco/" target="_blank">Project page</a> | 
@@ -113,7 +113,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/TwoStream.png" alt="TwoStream" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/TwoStream.png" alt="TwoStream" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Two-stream network for sign language recognition and translation.</strong></h2>
@@ -129,7 +129,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/simple.png" alt="SLT" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/simple.png" alt="SLT" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>A simple multi-modality transfer learning baseline for sign language translation.</strong></h2>
@@ -144,7 +144,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/manipulate.png" alt="ObjCen" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/manipulate.png" alt="ObjCen" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Learning to manipulate individual objects in an image.</strong></h2>
