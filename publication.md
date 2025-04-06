@@ -32,8 +32,8 @@ full-width: true
   }
 
   .publication img {
-    max-width: 100%;
-    border-radius: 1px;
+    max-width: 90%;
+    border-radius: 10px;
   }
 
   /* Custom font size and style for h2 */
