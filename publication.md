@@ -7,7 +7,7 @@ subtitle: Publications
 <style>
   /* Custom style for highlighted font (for your name) */
   .highlight-author {
-    font-family: 'Cursive', sans-serif; /* Example font, you can change it to any font */
+/*     font-family: 'Arial', sans-serif; /* Example font, you can change it to any font */ */
     font-weight: bold;
     color: #9E7BB5; /* Set your highlight color (you can choose any color) */
     font-size: 10px; /* Set the font size */
@@ -39,7 +39,7 @@ subtitle: Publications
   /* Custom font size and style for h2 */
   .publication h2 {
     font-size: 18px;
-    font-family: 'Arial', sans-serif;
+/*     font-family: 'Arial', sans-serif; */
     font-weight: bold;
     color: #333;
   }
@@ -47,7 +47,7 @@ subtitle: Publications
   /* Custom font size and style for p */
   .publication p {
     font-size: 16px;
-    font-family: 'Georgia', serif;
+/*     font-family: 'Georgia', serif; */
     line-height: 1.6;
     color: #666;
   }
