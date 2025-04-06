@@ -105,7 +105,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
     <p>Fangyun Wei, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup></p>
     <p>ICCV 2023.</p>
     <p>
-      <a href="https://arxiv.org/abs/2308.10809" target="_blank">arXiv</a> | 
+      <a href="https://arxiv.org/abs/2308.10809" target="_blank">arXiv</a>
     </p>
   </div>
 </div>
