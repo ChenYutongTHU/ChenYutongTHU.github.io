@@ -83,7 +83,7 @@ subtitle: Publications
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="Dyco" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/dyco.gif" alt="Dyco" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</strong></h2>
