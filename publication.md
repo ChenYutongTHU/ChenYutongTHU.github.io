@@ -100,7 +100,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="XCross" class="publication-image">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/Xsign.jpg" alt="XCross" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Improving continuous sign language recognition with cross-lingual signs</strong></h2>
@@ -115,7 +115,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="TwoStream" class="publication-image">
+    <img src="/assets/TwoStream.png" alt="TwoStream" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Two-stream network for sign language recognition and translation.</strong></h2>
@@ -131,7 +131,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="SLT" class="publication-image">
+    <img src="/assets/simple.png" alt="SLT" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>A simple multi-modality transfer learning baseline for sign language translation.</strong></h2>
@@ -146,7 +146,7 @@ Yinqiang Zheng (<sup>*</sup>: equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="ObjCen" class="publication-image">
+    <img src="/assets/manipulate.png" alt="ObjCen" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Learning to manipulate individual objects in an image.</strong></h2>
