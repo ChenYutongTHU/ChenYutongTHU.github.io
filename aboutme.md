@@ -17,9 +17,10 @@ My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch
 <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
 ### <img src="assets/img/thumb.png" alt="Paper Thumbnail" style="width: 150px; float: left; margin-right: 15px; border-radius: 8px;">  
-**[Paper Title One](link-to-paper)**  
-*Short description of the paper in one or two lines, summarizing the key idea or contribution.*  
-[Project Page](#) | [Code](#) | [Paper](#)
+**[SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](https://sergeyprokudin.github.io/splatformer/)**  
+*ICLR 2025 (Spotlight)*  
+*Author list*  
+[Project Page](https://sergeyprokudin.github.io/splatformer/) | [Code](https://github.com/ChenYutongTHU/SplatFormer) | [Paper](https://arxiv.org/abs/2411.06390)
 
 ---
 
