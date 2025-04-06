@@ -47,7 +47,7 @@ subtitle: Publications
     line-height: 1.6;
     color: #666;
   }
-  .highlight-author {
+  .publiation pme {
     font-weight: bold;
     color: #9E7BB5; 
     line-height: 1.6;
@@ -71,7 +71,7 @@ subtitle: Publications
   </div>
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
-    <p><p class="highlight-author">Yutong Chen</p>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
+    <p><pme>Yutong Chen</pme>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
     <p>ICLR 2025 Spotlight.</p>
     <p>
       <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
