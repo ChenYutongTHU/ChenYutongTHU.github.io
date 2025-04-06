@@ -16,7 +16,7 @@ My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch
 
 <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
-### <img src="assets/img/thumb.png" alt="Paper Thumbnail" style="width: 150px; float: left; margin-right: 15px; border-radius: 8px;">  
+### <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/thumb.png" alt="Paper Thumbnail" style="width: 150px; float: left; margin-right: 15px; border-radius: 8px;">  
 **[SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](https://sergeyprokudin.github.io/splatformer/)**  
 *ICLR 2025 (Spotlight)*  
 *Author list*  
