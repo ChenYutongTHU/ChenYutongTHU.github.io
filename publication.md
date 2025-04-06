@@ -149,7 +149,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
   <div class="right-column">
     <h2><strong>Learning to manipulate individual objects in an image.</strong></h2>
     <p>Yanchao Yang<sup>*</sup>, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Stefano Soatto</p>
-    <p>CVPR 2022.</p>
+    <p>CVPR 2020.</p>
     <p>
       <a href="https://arxiv.org/pdf/2004.05495" target="_blank">arXiv</a> | 
       <a href="https://github.com/ChenYutongTHU/Learning-to-manipulate-individual-objects-in-an-image-Implementation" target="_blank">code</a> 
