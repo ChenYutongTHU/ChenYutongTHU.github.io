@@ -12,3 +12,22 @@ Outside of computer vision research, I dream of being a chef—sharing love and 
 
 My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch?v=a9lirJRpHEo&pp=ygULbWFvIHNoaWFtZGE%3D), Rafael Nadal, and Frédéric Chopin.
 
+## Publications
+
+<div style="display: flex; flex-direction: column; gap: 1.5rem;">
+
+### <img src="assets/img/thumb.png" alt="Paper Thumbnail" style="width: 150px; float: left; margin-right: 15px; border-radius: 8px;">  
+**[Paper Title One](link-to-paper)**  
+*Short description of the paper in one or two lines, summarizing the key idea or contribution.*  
+[Project Page](#) | [Code](#) | [Paper](#)
+
+---
+
+### <img src="assets/img/thumb.png" alt="Paper Thumbnail" style="width: 150px; float: left; margin-right: 15px; border-radius: 8px;">  
+**[Paper Title Two](link-to-paper)**  
+*Another short description, maybe mentioning the dataset or core method.*  
+[Project Page](#) | [Code](#) | [Paper](#)
+
+</div>
+
+
