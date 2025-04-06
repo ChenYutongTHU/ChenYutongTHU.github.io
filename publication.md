@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Publications"
+title: 
+subtitle: Publications
 ---
 
 <style>
@@ -37,7 +38,7 @@ title: "Publications"
 
   /* Custom font size and style for h2 */
   .publication h2 {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Arial', sans-serif;
     font-weight: bold;
     color: #333;
@@ -45,7 +46,7 @@ title: "Publications"
 
   /* Custom font size and style for p */
   .publication p {
-    font-size: 10px;
+    font-size: 16px;
     font-family: 'Georgia', serif;
     line-height: 1.6;
     color: #666;
