@@ -71,7 +71,7 @@ subtitle: Publications
   </div>
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
-    <p><a class="highlight-author">Yutong Chen</a>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
+    <p><p class="highlight-author">Yutong Chen</p>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
     <p>ICLR 2025 Spotlight.</p>
     <p>
       <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
