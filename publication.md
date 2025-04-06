@@ -6,12 +6,6 @@ subtitle: Publications
 
 <style>
   /* Custom style for highlighted font (for your name) */
-  .highlight-author {
-/*     font-family: 'Arial', sans-serif; /* Example font, you can change it to any font */ */
-    font-weight: bold;
-    color: #9E7BB5; /* Set your highlight color (you can choose any color) */
-    font-size: 16px; /* Set the font size */
-  }
 
   /* Custom styles for publications */
   .publication {
@@ -52,6 +46,12 @@ subtitle: Publications
 /*     font-family: 'Georgia', serif; */
     line-height: 1.6;
     color: #666;
+  }
+  .highlight-author {
+    font-weight: bold;
+    color: #9E7BB5; 
+    line-height: 1.6;
+    font-size: 16px; 
   }
 
   /* Optional: You can add specific styles for links */
