@@ -8,8 +8,8 @@ title: "Publications"
   .highlight-author {
     font-family: 'Cursive', sans-serif; /* Example font, you can change it to any font */
     font-weight: bold;
-    color: #FF4500; /* Set your highlight color (you can choose any color) */
-    font-size: 18px; /* Set the font size */
+    color: #9E7BB5; /* Set your highlight color (you can choose any color) */
+    font-size: 10px; /* Set the font size */
   }
 
   /* Custom styles for publications */
@@ -62,20 +62,18 @@ title: "Publications"
   }
 </style>
 
-# Publications
-
 <div class="publication">
   <div class="left-column">
-    <img src="path_to_your_image_or_gif.gif" alt="SplatFormer GIF" class="publication-image">
+    <img src="https://markomih.github.io/assets/SplatFormer_ood_overview.png" alt="SplatFormer" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
-    <p><a href="your_link" class="highlight-author">Yutong Chen</a>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
+    <p><a class="highlight-author">Yutong Chen</a>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
     <p>ICLR 2025 Spotlight.</p>
     <p>
-      <a href="your_project_page_link" target="_blank">Project Page</a> | 
-      <a href="your_arxiv_link" target="_blank">Arxiv</a> | 
-      <a href="your_code_link" target="_blank">Code</a>
+      <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
+      <a href="https://arxiv.org/abs/2411.06390" target="_blank">arXiv</a> | 
+      <a href="https://github.com/ChenYutongTHU/SplatFormer" target="_blank">Code</a>
     </p>
   </div>
 </div>
