@@ -129,7 +129,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
   </div>
   <div class="right-column">
     <h2><strong>Improving continuous sign language recognition with cross-lingual signs</strong></h2>
-    <p>Fangyun Wei, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup></p>
+    <p>Fangyun Wei, <span class="yutongasauthor">Yutong Chen</span></p>
     <p>ICCV 2023.</p>
     <p>
       <a href="https://arxiv.org/abs/2308.10809" target="_blank">arXiv</a>
@@ -171,7 +171,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/manipulate.png" alt="ObjCen" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/manipulate2.png" alt="ObjCen" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Learning to manipulate individual objects in an image.</strong></h2>
