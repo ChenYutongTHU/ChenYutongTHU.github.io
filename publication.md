@@ -61,6 +61,33 @@ full-width: true
   .publication a:hover {
     text-decoration: underline;
   }
+
+  @media (max-width: 768px) {
+  .publication {
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .publication .left-column,
+  .publication .right-column {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+
+  .publication img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .publication h2,
+  .publication p {
+    text-align: left;
+    padding: 0 10px;
+  }
+}
+
 </style>
 
 <div class="publication">
