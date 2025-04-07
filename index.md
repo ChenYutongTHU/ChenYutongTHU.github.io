@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Hi, I'm Yutong Chen.
-subtitle: 
+title: 
+subtitle: Hi, I'm Yutong.
 ---
 
 I'm a second-year doctorate student in the [Computer Vision and Learning Group](https://vlg.inf.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html) supervised by [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/). Prior to this, I earned both my Bachelor's and Master's degrees in [Tsinghua University](https://www.tsinghua.edu.cn/en/).
