@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 
+title: Yutong Chen
 
 # Your name to show in the footer
 author: Yutong Chen
@@ -20,8 +20,8 @@ author: Yutong Chen
 ###############################################
 
 navbar-links:
-  Publications: "publication"
   About Me: "index"
+  Publications: "publication"
   My Tiny Kitchen: "kitchen"
 
 ################
