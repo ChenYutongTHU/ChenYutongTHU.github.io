@@ -143,7 +143,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
     <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/TwoStream.png" alt="TwoStream" class="publication-image">
   </div>
   <div class="right-column">
-    <h2><strong>Two-stream network for sign language recognition and translation.</strong></h2>
+    <h2><strong>Two-stream network for sign language recognition and translation</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Ronglai Zuo<sup>*</sup>, Fangyun Wei<sup>*</sup>, Yu Wu, Shujie Liu, Brian Mak</p>
     <p>NeurIPS 2022 Spotlight.</p>
     <p>
@@ -159,7 +159,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
     <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/simple.png" alt="SLT" class="publication-image">
   </div>
   <div class="right-column">
-    <h2><strong>A simple multi-modality transfer learning baseline for sign language translation.</strong></h2>
+    <h2><strong>A simple multi-modality transfer learning baseline for sign language translation</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span>, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin</p>
     <p>CVPR 2022.</p>
     <p>
@@ -174,7 +174,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
     <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/manipulate2.png" alt="ObjCen" class="publication-image">
   </div>
   <div class="right-column">
-    <h2><strong>Learning to manipulate individual objects in an image.</strong></h2>
+    <h2><strong>Learning to manipulate individual objects in an image</strong></h2>
     <p>Yanchao Yang<sup>*</sup>, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Stefano Soatto</p>
     <p>CVPR 2020.</p>
     <p>
