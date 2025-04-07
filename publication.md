@@ -155,21 +155,6 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/simple.png" alt="ObjCen" class="publication-image">
-  </div>
-  <div class="right-column">
-    <h2><strong>Learning to manipulate individual objects in an image</strong></h2>
-    <p>Yanchao Yang<sup>*</sup>, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Stefano Soatto</p>
-    <p>CVPR 2020.</p>
-    <p>
-      <a href="https://arxiv.org/pdf/2004.05495" target="_blank">arXiv</a> | 
-      <a href="https://github.com/ChenYutongTHU/Learning-to-manipulate-individual-objects-in-an-image-Implementation" target="_blank">code</a> 
-    </p>
-  </div>
-</div>
-
-<div class="publication">
-  <div class="left-column">
     <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/simple.png" alt="SLT" class="publication-image">
   </div>
   <div class="right-column">
@@ -179,6 +164,21 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
     <p>
       <a href="http://arxiv.org/abs/2203.04287" target="_blank">arXiv</a> | 
       <a href="https://github.com/FangyunWei/SLRT" target="_blank">code</a> 
+    </p>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="left-column">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/objcen.png" alt="ObjCen" class="publication-image">
+  </div>
+  <div class="right-column">
+    <h2><strong>Learning to manipulate individual objects in an image</strong></h2>
+    <p>Yanchao Yang<sup>*</sup>, <span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Stefano Soatto</p>
+    <p>CVPR 2020.</p>
+    <p>
+      <a href="https://arxiv.org/pdf/2004.05495" target="_blank">arXiv</a> | 
+      <a href="https://github.com/ChenYutongTHU/Learning-to-manipulate-individual-objects-in-an-image-Implementation" target="_blank">code</a> 
     </p>
   </div>
 </div>
