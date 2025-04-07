@@ -92,7 +92,7 @@ full-width: true
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/splatformer.gif" alt="SplatFormer" class="publication-image">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/splatformer2.gif" alt="SplatFormer" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
