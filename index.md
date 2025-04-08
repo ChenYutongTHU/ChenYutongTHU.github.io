@@ -10,4 +10,4 @@ In terms of [my research](https://chenyutongthu.github.io/publication/), I am pa
 
 I dream of being a chef, sharing love and warmth through home-cooked meals. [Here](https://chenyutongthu.github.io/kitchen/) are some of my daily creations, mostly baked goods, as I have a serious sweet tooth! :)
 
-My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch?v=a9lirJRpHEo&pp=ygULbWFvIHNoaWFtZGE%3D), Rafael Nadal, [Laufey](https://www.youtube.com/channel/UChpKl3waLmccNeYH9LGYjUQ), and Frédéric Chopin.
+My favorite people and inspirations: [Mao Shimada]([https://www.youtube.com/watch?v=a9lirJRpHEo&pp=ygULbWFvIHNoaWFtZGE%3D](https://www.youtube.com/watch?v=J1OQwpEWorc)), Rafael Nadal, [Laufey](https://www.youtube.com/channel/UChpKl3waLmccNeYH9LGYjUQ), and Frédéric Chopin.
