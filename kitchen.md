@@ -106,14 +106,24 @@ title: Welcome to Yutong's tiny kitchen.
   <div class="dish-card">
     <div class="dish-images">
       <img src="/assets/kitchen_img/valentine1.jpg" alt="Dish 1 - image 1">
-      <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1">
+<!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
     </div>
     <div class="dish-description">
       <h2>Valentine's Day Bread</h2>
       <p>The rosy dough was made from dragon fruit. </p>
     </div>
   </div>
-
+  
+  <div class="dish-card">
+    <div class="dish-images">
+      <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 1 - image 1">
+<!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
+    </div>
+    <div class="dish-description">
+      <h2></h2>
+      <p></p>
+    </div>
+  </div>
 
   </main>
 
