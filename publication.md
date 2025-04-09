@@ -97,7 +97,7 @@ full-width: true
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
-    <p>ICLR 2025 Spotlight.</p>
+    <p>ICLR 2025 <strong>Spotlight</strong>.</p>
     <p>
       <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
       <a href="https://arxiv.org/abs/2411.06390" target="_blank">arXiv</a> | 
@@ -145,7 +145,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
   <div class="right-column">
     <h2><strong>Two-stream network for sign language recognition and translation</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Ronglai Zuo<sup>*</sup>, Fangyun Wei<sup>*</sup>, Yu Wu, Shujie Liu, Brian Mak</p>
-    <p>NeurIPS 2022 Spotlight.</p>
+    <p>NeurIPS 2022 <strong>Spotlight</strong>.</p>
     <p>
       <a href="https://arxiv.org/abs/2211.01367" target="_blank">arXiv</a> | 
       <a href="https://github.com/FangyunWei/SLRT" target="_blank">code</a> 
