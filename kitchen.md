@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome to my tiny kitchen.
+full-width: true
 ---
 
 
