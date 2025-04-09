@@ -187,7 +187,7 @@ title: Welcome to my tiny kitchen.
 
   <div class="dish-card">
     <div class="dish-images">
-      <img class="img" src="/assets/kitchen_img/seafood.jpg" alt="seafood - image 1">
+      <img class="img" src="/assets/kitchen_img/seefood.jpg" alt="seafood - image 1">
     </div>
     <div class="dish-description">
       <h2>Tropical Experience.</h2>
