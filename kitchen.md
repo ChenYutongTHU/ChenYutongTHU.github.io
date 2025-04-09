@@ -112,26 +112,14 @@ subtitle:
   <div class="dish-card">
     <div class="dish-images">
       <img src="/assets/kitchen_img/valentine1.jpg" alt="Dish 1 - image 1">
-      <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 1 - image 1">
+      <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1">
     </div>
     <div class="dish-description">
-      <h2>Berry Pancakes</h2>
-      <p>Fluffy pancakes topped with fresh strawberries, blueberries, and a drizzle of honey. Perfect for a cozy morning.</p>
+      <h2>Valentine's Day Bread</h2>
+      <p>The rosy dough was made from dragon fruit. </p>
     </div>
   </div>
 
-    <!-- Dish 2 -->
-    <div class="dish-card">
-      <div class="dish-images">
-        <img src="dish2-1.jpg" alt="Dish 2 - image 1">
-      </div>
-      <div class="dish-description">
-        <h2>Matcha Tiramisu</h2>
-        <p>A gentle twist on the classic dessert — creamy layers infused with the soft bitterness of matcha and a hint of sweetness.</p>
-      </div>
-    </div>
-
-    <!-- More dishes go here -->
 
   </main>
 
