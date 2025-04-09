@@ -58,8 +58,8 @@ title: Welcome to Yutong's tiny kitchen.
 
   .dish-images {
     display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
+    flex-wrap: wrap;
+    overflow-x: visible;
   }
 
   .dish-images img {
@@ -71,7 +71,7 @@ title: Welcome to Yutong's tiny kitchen.
     border-bottom: 1px solid #eee;
   }
 
-  .dish-images imghalf {
+  .dish-images .imghalf {
     width: 50%;
     height: auto;
     object-fit: cover;
@@ -115,12 +115,8 @@ title: Welcome to Yutong's tiny kitchen.
 
   <div class="dish-card">
     <div class="dish-images">
-      <imghalf src="/assets/kitchen_img/valentine1.jpg" alt="Dish 1 - image 1">
-<!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
-    </div>
-    <div class="dish-images">
-      <imghalf src="/assets/kitchen_img/valentine2.jpg" alt="Dish 1 - image 1">
-<!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
+      <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
+      <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2">
     </div>
     <div class="dish-description">
       <h2>Valentine's Day Bread</h2>
