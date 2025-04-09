@@ -71,6 +71,16 @@ title: Welcome to Yutong's tiny kitchen.
     border-bottom: 1px solid #eee;
   }
 
+  .dish-images imghalf {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+    border-bottom: 1px solid #eee;
+  }
+
+
   .dish-description {
     padding: 1rem 1.2rem;
   }
@@ -105,11 +115,11 @@ title: Welcome to Yutong's tiny kitchen.
 
   <div class="dish-card">
     <div class="dish-images">
-      <img src="/assets/kitchen_img/valentine1.jpg" alt="Dish 1 - image 1">
+      <imghalf src="/assets/kitchen_img/valentine1.jpg" alt="Dish 1 - image 1">
 <!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
     </div>
     <div class="dish-images">
-      <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 1 - image 1">
+      <imghalf src="/assets/kitchen_img/valentine2.jpg" alt="Dish 1 - image 1">
 <!--       <img src="/assets/kitchen_img/valentine2.jpg" alt="Dish 2 - image 1"> -->
     </div>
     <div class="dish-description">
