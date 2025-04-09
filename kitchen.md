@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Welcome to my tiny kitchen.
+title: Welcome to my tiny kitchen.
 ---
 
 
