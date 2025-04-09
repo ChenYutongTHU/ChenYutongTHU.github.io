@@ -115,8 +115,10 @@ subtitle: Welcome to my tiny kitchen.
 
   <div class="dish-card">
     <div class="dish-images">
-      <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
-      <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2">
+<!--       <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
+      <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2"> -->
+      <img  src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
+      <img  src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2">
     </div>
     <div class="dish-description">
       <h2>Valentine's day bread</h2>
