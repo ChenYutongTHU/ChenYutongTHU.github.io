@@ -1,5 +1,6 @@
 ---
-layout: gallery
+layout: page
+title: Welcome to Yutong's tiny kitchen.
 ---
 
 
@@ -98,11 +99,6 @@ layout: gallery
 </style>
 
 <body>
-
-  <header>
-    <h1>My Cooking Gallery</h1>
-    <p class="subtitle">Handmade dishes made with love 💕</p>
-  </header>
 
   <main class="gallery">
 
