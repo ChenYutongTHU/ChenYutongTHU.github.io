@@ -136,6 +136,18 @@ subtitle: Welcome to my tiny kitchen.
       <p>My first home-cooked Quiche. My Italian colleagues gave it a thumbs up. </p>
     </div>
   </div>
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img class="img" src="/assets/kitchen_img/tuotuomo.jpg" alt="tuotuomo - image 1">
+    </div>
+    <div class="dish-description">
+      <h2>Pork tuotuomo, Rucolas Salat mit Birnen und Ricotta</h2>
+      <p>A fusion of Chinese and Swiss flavors. </p>
+      <p>The tuotuomo was made from scratch following <a href="https://www.youtube.com/watch?v=fS7yzGb8q3g" target="_blank">小高姐的Magic Ingredients</a> </p>
+      <p>The Rucolas Salat was inspired by a recipe from <a href="https://fooby.ch/de/rezepte/27196/rucola-salat-mit-birnen-und-ricotta">FOOBY.</a> </p>
+    </div>
+  </div>
   
   
   </main>
