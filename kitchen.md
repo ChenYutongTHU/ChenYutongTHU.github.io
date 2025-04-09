@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Yutong's tiny kitchen.
+subtitle: Welcome to my tiny kitchen.
 ---
 
 
@@ -119,10 +119,22 @@ title: Welcome to Yutong's tiny kitchen.
       <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2">
     </div>
     <div class="dish-description">
-      <h2>Valentine's Day Bread</h2>
+      <h2>Valentine's day bread</h2>
       <p>The rosy dough was made from dragon fruit. </p>
     </div>
   </div>
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img class="imghalf" src="/assets/kitchen_img/quiche1.jpg" alt="Quiche - image 1">
+      <img class="imghalf" src="/assets/kitchen_img/quiche2.jpg" alt="Quiche - image 2">
+    </div>
+    <div class="dish-description">
+      <h2>Zucchini and Mozzarella Quiche</h2>
+      <p>My first home-cooked Quiche. My Italian colleagues gave it a thumbs up. </p>
+    </div>
+  </div>
+  
   
   </main>
 
