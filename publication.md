@@ -97,11 +97,28 @@ full-width: true
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
-    <p>ICLR 2025 <strong>Spotlight</strong>.</p>
+    <p>ICLR 2025 Spotlight.</p>
     <p>
       <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
       <a href="https://arxiv.org/abs/2411.06390" target="_blank">arXiv</a> | 
       <a href="https://github.com/ChenYutongTHU/SplatFormer" target="_blank">Code</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="publication">
+  <div class="left-column">
+    <img src="https://egom2p.github.io/images/teaser.png" alt="egom2p" class="publication-image">
+  </div>
+  <div class="right-column">
+    <h2><strong>EgoM2P: Egocentric Multimodal Multitask Pretraining</strong></h2>
+    <p>Gen Li, <span class="yutongasauthor">Yutong Chen</span>, Yiqian Wu, Kaifeng Zhao, Marc Pollefeys, and Siyu Tang.</p>
+    <p>ICCV 2025.</p>
+    <p>
+      <a href="https://egom2p.github.io/" target="_blank">Project page</a> | 
+      <a href="https://www.arxiv.org/abs/2506.07886" target="_blank">arXiv</a> | 
+      <a href="https://github.com/ligengen/EgoM2P" target="_blank">Code</a>
     </p>
   </div>
 </div>
@@ -145,13 +162,14 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
   <div class="right-column">
     <h2><strong>Two-stream network for sign language recognition and translation</strong></h2>
     <p><span class="yutongasauthor">Yutong Chen</span><sup>*</sup>, Ronglai Zuo<sup>*</sup>, Fangyun Wei<sup>*</sup>, Yu Wu, Shujie Liu, Brian Mak</p>
-    <p>NeurIPS 2022 <strong>Spotlight</strong>.</p>
+    <p>NeurIPS 2022 Spotlight.</p>
     <p>
       <a href="https://arxiv.org/abs/2211.01367" target="_blank">arXiv</a> | 
       <a href="https://github.com/FangyunWei/SLRT" target="_blank">code</a> 
     </p>
   </div>
 </div>
+
 
 <div class="publication">
   <div class="left-column">
@@ -170,7 +188,7 @@ Yinqiang Zheng (<sup>*</sup> indicates equal contribution)</p>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/objcen.png" alt="ObjCen" class="publication-image">
+    <img src="https://github.com/ChenYutongTHU/ChenYutongTHU.github.io/blob/master/assets/img/manipulate2.png" alt="ObjCen" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>Learning to manipulate individual objects in an image</strong></h2>
