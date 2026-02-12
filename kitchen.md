@@ -127,6 +127,18 @@ full-width: true
     </div>
   </div>
 
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/BrotTrio.jpg" alt="BrotTrio">
+    </div>
+    <div class="dish-description">
+      <h2>Bunte Brot-Box (3 Sorten): Melone, Kokos & Schoggi </h2>
+      <p></p>
+    </div>
+  </div>
+  
+
   <div class="dish-card">
     <div class="dish-images">
 <!--       <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
@@ -144,12 +156,35 @@ full-width: true
 <!--       <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
       <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2"> -->
       <img  src="/assets/kitchen_img/schogiiroll.jpg" alt="image 1">
-      <img  src="/assets/kitchen_img/cinnammonroll.jpg" alt="image 2">
-      <img  src="/assets/kitchen_img/Onionhamroll.jpg" alt="image 3">
+      <!-- <img  src="/assets/kitchen_img/cinnammonroll.jpg" alt="image 2">
+      <img  src="/assets/kitchen_img/Onionhamroll.jpg" alt="image 3"> -->
     </div>
     <div class="dish-description">
-      <h2>🌀Roll Everything🌀</h2>
-      <p> I used the same dough shaping method to roll Ovomaltine, cinnammon, and spring onion! </p>
+      <h2>🌀Roll Everything - Cinnammon🌀</h2>
+      <p> My comfort food during the autumn </p>
+    </div>
+  </div>
+  
+  <div class="dish-card">
+    <div class="dish-images">
+<!--       <img class="imghalf" src="/assets/kitchen_img/valentine1.jpg" alt="Valentine's Day Bread - image 1">
+      <img class="imghalf" src="/assets/kitchen_img/valentine2.jpg" alt="Valentine's Day Bread - image 2"> -->
+       <img  src="/assets/kitchen_img/cinnammonroll.jpg" alt="image 2">
+    </div>
+    <div class="dish-description">
+      <h2>🌀Roll Everything - Ovomaltine🌀</h2>
+      <p> A cinnamon-free alternative: Ovomaltine & peanut butter </p>
+    </div>
+  </div>
+
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/Onionhamroll.jpg" alt="image 3"> 
+    </div>
+    <div class="dish-description">
+      <h2>🌀Roll Everything - Spring Onion🌀</h2>
+      <p> Inspired by Chinese-style savoy bun</p>
     </div>
   </div>
 
