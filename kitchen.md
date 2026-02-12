@@ -137,7 +137,16 @@ full-width: true
       <p></p>
     </div>
   </div>
-  
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/pilz.png" alt="pilz">
+    </div>
+    <div class="dish-description">
+      <h2>Mushroom foraging - Boletus </h2>
+      <p><a href="https://www.wildfooduk.com/mushroom-guide/bay-bolete-boletus-imleria-badia/">Maronenröhrling</a> and <a href="https://www.wildfooduk.com/mushroom-guide/bay-bolete-boletus-imleria-badia/">Rotfussröhrling</a></p>
+    </div>
+  </div>
 
   <div class="dish-card">
     <div class="dish-images">
