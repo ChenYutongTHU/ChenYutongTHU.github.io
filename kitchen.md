@@ -137,7 +137,17 @@ full-width: true
       <p></p>
     </div>
   </div>
-
+  
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/BrotTrio.jpg" alt="BrotTrio">
+    </div>
+    <div class="dish-description">
+      <h2>Bunte Brot-Box (3 Sorten): Melone, Kokos & Schoggi </h2>
+      <p></p>
+    </div>
+  </div>
+  
   <div class="dish-card">
     <div class="dish-images">
       <img  src="/assets/kitchen_img/pilz.png" alt="pilz">
@@ -150,13 +160,14 @@ full-width: true
 
   <div class="dish-card">
     <div class="dish-images">
-      <img  src="/assets/kitchen_img/BrotTrio.jpg" alt="BrotTrio">
+      <img  src="/assets/kitchen_img/tbone.jpg" alt="pilz">
     </div>
     <div class="dish-description">
-      <h2>Bunte Brot-Box (3 Sorten): Melone, Kokos & Schoggi </h2>
+      <h2>T-bone steak and egg </h2>
       <p></p>
     </div>
   </div>
+
   
 
   <div class="dish-card">
