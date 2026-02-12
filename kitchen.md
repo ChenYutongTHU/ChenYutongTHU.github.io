@@ -127,6 +127,17 @@ full-width: true
     </div>
   </div>
 
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/bbq1.jpg" alt="bbq1">
+      <img  src="/assets/kitchen_img/bbq2.jpg" alt="bbq2">
+    </div>
+    <div class="dish-description">
+      <h2>BBQ am Zürichsee </h2>
+      <p></p>
+    </div>
+  </div>
+  
 
   <div class="dish-card">
     <div class="dish-images">
@@ -172,7 +183,7 @@ full-width: true
        <img  src="/assets/kitchen_img/cinnammonroll.jpg" alt="image 2">
     </div>
     <div class="dish-description">
-      <h2>🌀Roll Everything - Ovomaltine🌀</h2>
+      <h2>🌀Roll Everything - Ovomaltine 🍫🌀</h2>
       <p> A cinnamon-free alternative: Ovomaltine & peanut butter </p>
     </div>
   </div>
