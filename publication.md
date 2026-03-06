@@ -100,7 +100,7 @@ full-width: true
     <p><span class="yutongasauthor">Yutong Chen</span>, Yiming Wang, Xucong Zhang, Sergey Prokudin, and Siyu Tang.</p>
     <p>CVPR 2026.</p>
     <p>
-      <a href="https://chenyutongthu.github.io/ggpt/" target="_blank">Project page</a> | 
+      <a href="https://chenyutongthu.github.io/research/ggpt/" target="_blank">Project page</a> | 
       <a href="https://chenyutongthu.github.io/" target="_blank">arXiv</a> | 
       <a href="https://github.com/ChenYutongTHU/GGPT" target="_blank">Code</a>
     </p>
