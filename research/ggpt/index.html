@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="GGPT: Geometry-Grounded Point Transformer">
+  <meta name="keywords" content="GGPT, 3D Reconstruction, Point Transformer, CVPR 2026">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GGPT: Geometry-Grounded Point Transformer</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  
+  <style>
+    .author-block {
+      display: inline-block;
+      margin-right: 15px;
+    }
+    .publication-title {
+      font-weight: 700;
+    }
+    .publication-authors {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    .publication-venues {
+      font-size: 1.3rem;
+      color: #4a4a4a;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .affiliation-block {
+      display: inline-block;
+      margin-right: 15px;
+      font-size: 1.1rem;
+      color: #666;
+    }
+    .teaser-image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .tldr-box {
+      background-color: #f5f5f5;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      font-style: italic;
+      text-align: center;
+      border-left: 5px solid #3273dc;
+    }
+    .content-block {
+      margin-top: 40px;
+    }
+    .bibtex-block {
+      background-color: #f5f5f5;
+      padding: 20px;
+      border-radius: 8px;
+      font-family: monospace;
+      text-align: left;
+      overflow-x: auto;
+    }
+    .placeholder-box {
+      background-color: #eef;
+      border: 2px dashed #88c;
+      padding: 40px;
+      text-align: center;
+      border-radius: 8px;
+      color: #558;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body" style="padding-bottom: 1rem;">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title publication-title" style="font-size: 2.4rem;">GGPT: Geometry-Grounded Point Transformer</h1>
+          
+          <div class="is-size-4 publication-venues">
+            CVPR 2026
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://chenyutongthu.github.io/">Yutong Chen</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://19reborn.github.io/">Yiming Wang</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.ccmitss.com/zhang">Xucong Zhang</a><sup>1,2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://vlg.inf.ethz.ch/team/Dr-Sergey-Prokudin.html">Sergey Prokudin</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html">Siyu Tang</a><sup>1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors mt-2">
+            <span class="affiliation-block"><sup>1</sup>ETH Zurich</span>
+            <span class="affiliation-block"><sup>2</sup>Delft University of Technology</span>
+          </div>
+
+          <div class="column has-text-centered mt-4">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="#" class="button is-dark is-rounded">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/ChenYutongTHU/GGPT" class="button is-dark is-rounded">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top: 0;">
+  <div class="container is-max-desktop">
+    <!-- Demo Videos -->
+    <div class="columns is-centered has-text-centered" id="demo-video">
+      <div class="column is-full">
+        <!-- Video 1 -->
+        <h2 class="subtitle has-text-centered mt-3 mb-2" style="font-size: 1.3rem;">
+          <span style="color: #2980b9; font-weight: bold;">GGPT</span> can use reliable <span style="color: #27ae60; font-weight: bold;">geometric guidance</span> to augment <span style="color: #8e44ad; font-weight: bold;"><i>various</i></span> <span style="color: #e65100; font-weight: bold;">feed-forward</span> reconstruction.
+        </h2>
+        <div class="has-text-centered mb-2">
+          <video id="video-top" controls autoplay loop muted playsinline width="100%" style="border-radius: 8px;">
+            <source src="materials/iid.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+
+        <!-- Video 2 -->
+        <h2 class="subtitle has-text-centered mt-2 mb-2" style="font-size: 1.3rem;">
+        <span style="color: #d35400; font-weight: bold;">GGPT generalizes</span> across scenes with distinct geometry.
+        </h2>
+        <div class="has-text-centered">
+          <video id="video-bottom" controls autoplay loop muted playsinline width="100%" style="border-radius: 8px;">
+            <source src="materials/ood.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Abstract -->
+    <div class="columns is-centered content-block" style="margin-top: 20px;">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Summary</h2>
+        <div class="content has-text-justified">
+          <p>
+            Recent feed-forward networks have achieved remarkable progress in sparse-view 3D reconstruction, but often suffer from <span style="color: #e74c3c; font-weight: bold;">geometry inconsistencies</span> due to the lack of explicit multi-view constraints. To address this, we introduce the <strong>G</strong>eometry-<strong>G</strong>rounded <strong>P</strong>oint <strong>T</strong>ransformer (<strong>GGPT</strong>). Our framework first leverages <span style="color: #27ae60; font-weight: bold;">an improved Structure-from-Motion pipeline</span> to efficiently estimate accurate camera poses and partial 3D point clouds. Building on this, <span style="color: #2980b9; font-weight: bold;">a geometry-guided 3D point transformer</span> refines dense point maps under explicit sparse-geometry supervision. Extensive experiments show that GGPT seamlessly integrates geometric priors with dense feed-forward predictions, producing geometrically consistent and spatially complete reconstructions that <span style="color: #8e44ad; font-weight: bold;">generalize across architectures and datasets</span>.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Method -->
+    <div class="columns is-centered content-block" style="margin-top: 10px;">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Method</h2>
+        <div class="content has-text-justified">
+          <p>
+            In this work, we introduce a geometry-guided framework that refines dense feed-forward reconstructions using accurate geometric guidance obtained from an improved SfM pipeline, directly in 3D space. First, we revisit sparse-view SfM and introduce an improved pipeline that integrates dense matchers with a lightweight optimisation procedure. Second, we introduce a variant of a lightweight 3D Point Transformer that jointly processes dense point maps from feed-forward models and the geometrically grounded partial point cloud from our SfM pipeline, predicting residual corrections for every dense point.
+          </p>
+          <div class="has-text-centered mt-4">
+            <img src="materials/method.jpg" alt="Method Overview" class="teaser-image" style="max-width: 100%; border: 1px solid #ddd;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- BibTeX -->
+    <div class="columns is-centered content-block">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">BibTeX</h2>
+        <pre class="bibtex-block"><code>@inproceedings{chen2026ggpt,
+  title={GGPT: Geometry-Grounded Point Transformer},
+  author={Chen, Yutong and Wang, Yiming and Zhang, Xucong and Prokudin, Sergey and Tang, Siyu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}</code></pre>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer class="footer mt-6">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        Website template based on <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const videoTop = document.getElementById('video-top');
+    const videoBottom = document.getElementById('video-bottom');
+
+    if (videoTop && videoBottom) {
+      // Sync play, pause, and timeupdate from top to bottom
+      videoTop.addEventListener('play', () => {
+        videoBottom.play();
+      });
+
+      videoTop.addEventListener('pause', () => {
+        videoBottom.pause();
+      });
+
+      videoTop.addEventListener('timeupdate', () => {
+        if (Math.abs(videoTop.currentTime - videoBottom.currentTime) > 0.5) {
+          videoBottom.currentTime = videoTop.currentTime;
+        }
+      });
+
+      // Also sync from bottom to top so either one controls both
+      videoBottom.addEventListener('play', () => {
+        videoTop.play();
+      });
+
+      videoBottom.addEventListener('pause', () => {
+        videoTop.pause();
+      });
+
+      videoBottom.addEventListener('timeupdate', () => {
+        if (Math.abs(videoBottom.currentTime - videoTop.currentTime) > 0.5) {
+          videoTop.currentTime = videoBottom.currentTime;
+        }
+      });
+    }
+  });
+</script>
+
+</body>
+</html>
