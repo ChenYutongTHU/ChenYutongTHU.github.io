@@ -147,6 +147,17 @@ full-width: true
       <p></p>
     </div>
   </div>
+
+
+  <div class="dish-card">
+    <div class="dish-images">
+      <img  src="/assets/kitchen_img/barlauch.jpg" alt="barlauch">
+    </div>
+    <div class="dish-description">
+      <h2>Bärlauch Turnover. Use fresh wild ramsons 🍃 to reproduce my nostalgic flavor - Chinese Chive Pocket 韭菜盒子 </h2>
+      <p></p>
+    </div>
+  </div>
   
   <div class="dish-card">
     <div class="dish-images">
