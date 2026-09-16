@@ -12,4 +12,4 @@ I am also honoured to have been awarded the [Google PhD Fellowship](https://rese
 
 I dream of being a chef, sharing love and warmth through home-cooked meals. [Here](https://chenyutongthu.github.io/kitchen/) are some of my daily creations, mostly baked goods, as I have a serious sweet tooth! :)
 
-My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch?v=a9lirJRpHEo&pp=ygULbWFvIHNoaWFtZGE%3D), Rafael Nadal, and [Cateen](https://www.youtube.com/channel/UC_QG8miwKHFNuWY9VpkrI8w).
+My favorite people and inspirations: [Mao Shimada](https://www.youtube.com/watch?v=a9lirJRpHEo&pp=ygULbWFvIHNoaWFtZGE%3D), Rafael Nadal, [Maria João Pires](https://www.mariajoaopires.com/).
