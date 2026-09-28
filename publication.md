@@ -101,19 +101,50 @@ full-width: true
     <p>CVPR 2026.</p>
     <p>
       <a href="https://chenyutongthu.github.io/research/ggpt/" target="_blank">Project page</a> | 
-      <a href="https://chenyutongthu.github.io/" target="_blank">arXiv</a> | 
+      <a href="https://arxiv.org/abs/2603.11174" target="_blank">arXiv</a> | 
       <a href="https://github.com/ChenYutongTHU/GGPT" target="_blank">Code</a>
+    </p>
+  </div>
+</div>
+
+
+
+<div class="publication">
+  <div class="left-column">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/scaffold3d-teaser.png" alt="scaffold3d" class="publication-image">
+  </div>
+  <div class="right-column">
+    <h2><strong>Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-view 3D Reconstruction</strong></h2>
+    <p>Frano Rajic, <span class="yutongasauthor">Yutong Chen</span>, Haofei Xu, Zador Pataki, Marc Pollefeys, and Siyu Tang.</p>
+    <p>NeurIPS 2026.</p>
+    <p>
+      <a href="https://chenyutongthu.github.io/" target="_blank">to come</a> 
+    </p>
+  </div>
+</div>
+
+
+<div class="publication">
+  <div class="left-column">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/mvdvrk.png" alt="mvdvrk" class="publication-image">
+  </div>
+  <div class="right-column">
+    <h2><strong>MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception</strong></h2>
+    <p>Guido Caccianiga, Sergey Prokudin, <span class="yutongasauthor">Yutong Chen</span>, Bernard Javot, Rachael L'Orsa, Omer Burak Aladag, Yarden Sharon, Jens Rolinger, Ivan Capobianco, Anton Deguet, Siyu Tang, and Katherine J. Kuchenbecker.</p>
+    <p>Arxiv 2026.</p>
+    <p>
+      <a href="https://arxiv.org/abs/2609.02717" target="_blank">arXiv</a> 
     </p>
   </div>
 </div>
 
 <div class="publication">
   <div class="left-column">
-    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/splatformer2.gif" alt="SplatFormer" class="publication-image">
+    <img src="https://raw.githubusercontent.com/ChenYutongTHU/ChenYutongTHU.github.io/master/assets/img/splatformer2.gif" alt="splatformer" class="publication-image">
   </div>
   <div class="right-column">
     <h2><strong>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</strong></h2>
-    <p><span class="yutongasauthor">Yutong Chen</span>, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, and Siyu Tang.</p>
+    <p><span class="yutongasauthor">Yutong Chen</span>, Yiming Wang, Xucong Zhang, Sergey Prokudin, and Siyu Tang.</p>
     <p>ICLR 2025 Spotlight.</p>
     <p>
       <a href="https://sergeyprokudin.github.io/splatformer/" target="_blank">Project page</a> | 
